@@ -8,7 +8,7 @@ The final categories is divided into 8, and contained amusement, anger, awe, con
 
 The structure are shown below
 
-![MG network architecture](https://github.com/lucinda-lim/Image-Emotion-Classification/blob/master/assets/image.PNG)
+![MG network architecture](https://github.com/goldeneave/MultiGapEmoPred/blob/4b591ad96b239470b5139a12c7cfc11e2bdea358/image.PNG)
 
 ## Train
 
