@@ -4,7 +4,10 @@ idea from the [paper](https://ieeexplore.ieee.org/abstract/document/9191258)
 
 ## Network Description
 Used the category classification proposed by [Machajdik and Hanbury](https://doi.org/10.1145/1873951.1873965) and the model was trained on dataset proposed by [You et al.(2016)](http://arxiv.org/abs/1605.02677). 
-The final categories is divided into 8, and contained amusement, anger, awe, contentment, disgust, excitement, fear, and sadness. It is usually considered that amusement, awe, contentment and excitement are positive emotion, and the others are negative.
+
+The final categories is divided into 8 categories, and contained `amusement`, `anger`, `awe`, `contentment`, `disgust`, `excitement`, `fear`, and `sadness`. 
+
+It is usually considered that amusement, awe, contentment and excitement are positive emotion, and the others are negative.
 
 The structure are shown below
 
