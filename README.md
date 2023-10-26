@@ -23,7 +23,7 @@ The structure are shown below
 
 
 ## Use Pretrained Models 
-1. Download [FI pretrained weights](https://drive.google.com/drive/folders/1Gm5fyY8bthkENOsTxR9oe08r15wc7vyV?usp=sharing), Store them in `pretrained_models` folder
+1. Download [FI pretrained weights](https://github.com/goldeneave/MultiGapEmoPred/releases/download/v0.1/weight.zip), Store them in `pretrained_models` folder
 2. Store test images in `data/test` folder.
 3. Run `late_fusion2.py`
 
