@@ -1,4 +1,4 @@
-# Multi Gap Neural Network for Emotion Prediction
+# Multi GAP Neural Network for Emotion Prediction
 
 idea from the [paper](https://ieeexplore.ieee.org/abstract/document/9191258)
 
